@@ -1,4 +1,4 @@
-# FNP E-Commerce Sales Analysis (Advanced Excel)
+# FNP E-Commerce Sales Analysis 
 
 <img width="1302" height="615" alt="Screenshot 2026-04-26 202210" src="https://github.com/user-attachments/assets/ff8ac9f1-89a8-4c5c-bd47-1a9f41b71026" />
 
